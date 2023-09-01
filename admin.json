@@ -1,0 +1,18 @@
+{"admin": [
+    {
+      "id": 1,
+      "userName": "galangHa",
+      "password": "12345"
+    },
+    {
+      "id": 2,
+      "userName": "gilangHa",
+      "password": "12345"
+    },
+    {
+      "userName": "belasak@mailnesia.com",
+      "password": "iGrow@123",
+      "id": 3
+    }
+  ]
+}
